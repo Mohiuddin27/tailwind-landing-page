@@ -63,3 +63,21 @@ body{
         background-image: url('../img/bg-simplify-section-mobile.svg');
     }
 }
+@media(max-width: 375px){
+   #btnn1{
+      
+       display:block;
+       margin:0 auto;
+       margin-top:40px;
+   }
+   .testi-one{
+       margin-top:50px;
+   }
+   .btnn2{
+      
+    display:block!important;
+    margin:0 auto!important;
+    text-align:center;
+    padding-bottom:40px!important;
+}
+}
